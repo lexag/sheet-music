@@ -107,7 +107,7 @@ organalto = \relative c' {
   % counterpoint
   s1*4
   a'4 f8 d bes'4. f8 g4 e8 c bes' a g a a4 f8 d d'4 r16 c bes a g f e g f e d f e d cis e d8 f 
-  c d b c a b16 dis e dis e gis a g8.~16 a8. d16 cis8. bes8 a g4 f e d cis a'8 cis d c fis, d'
+  c d b c a b16 dis e dis e gis a g8.~16 a8. d16 c8. bes8 a g4 f e d cis a'8 cis d c fis, d'
   bes16 a bes8~16 g a bes c bes c8 g4 a16 g a8~16 bes c es c bes a g fis4
   r8 g16 fis g8. a16 bes8. a16 g a c bes a g fis a g f es f e d cis e d f d cis
   
